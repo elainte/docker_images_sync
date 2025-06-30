@@ -1,5 +1,5 @@
 registry: crpi-xxx.cn-xxx.personal.cr.aliyuncs.com
-namespace: xxx
+namespace: xxxx
 images_dir: "E:\Git\docker_images_sync"
 max_retries: 60
 retry_delay: 1
