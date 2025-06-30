@@ -1,1 +1,1 @@
-hello-world:linux
+alpine:3.21
